@@ -1,0 +1,19 @@
+{
+  "name": "nina-ship-api",
+  "version": "1.0.0",
+  "description": "API do Ship Card fofo da Nina",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "canvas": "^2.11.2",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "Miyu",
+  "license": "MIT"
+}
